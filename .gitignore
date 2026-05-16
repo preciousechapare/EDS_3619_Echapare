@@ -1,0 +1,21 @@
+#========================================================================
+# EDS_3619_Echapare - Virtual Environment & Cache Exclusions
+#========================================================================
+
+# Ignore your specific local Python virtual environments
+/venv/
+.venv/
+venv_lab/
+
+# Ignore Python execution cache chunks
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore hidden system folder options (Windows/Mac junk)
+.DS_Store
+Thumbs.db
+
+# Ignore local code editor settings if you use VS Code or PyCharm
+.vscode/
+.idea/

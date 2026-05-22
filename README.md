@@ -6,6 +6,11 @@ This project implements a Python-based biomedical data analytics pipeline for th
 
 The system performs automated data ingestion, cleaning, statistical analysis, comparative analysis, correlation mapping, static visualization, and animated signal visualization. The pipeline was developed using a modular Object-Oriented Programming structure to satisfy engineering data systems requirements.
 
+## Run Instructions
+
+To run this project, first ensure you have the required libraries installed by running pip install -r requirements.txt in your terminal. Once the dependencies are installed, you can execute the project by running python main.py.
+
+
 ## Assigned Topic
 
 - Pillar: Pillar 9 — Biomedical & Wearable Systems
